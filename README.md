@@ -1,5 +1,5 @@
 # 3d_drone_douteki
-動的被写体に対応させる
+ガウス過程を逐次ガウス過程に変更
 
 1: roslaunch bebop_teleop bebop_connection.launch 
 
